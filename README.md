@@ -1,5 +1,5 @@
 # TMPS
-🌟 My Awesome Project 🌟
+🌟 My  Project 🌟
 📚 The SOLID Principles 🧱 are a set of five object design principles used to create software that is:
 
 💡 Easy to understand
