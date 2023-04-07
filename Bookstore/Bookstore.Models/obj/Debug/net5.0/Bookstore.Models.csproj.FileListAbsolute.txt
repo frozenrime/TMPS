@@ -1,0 +1,5 @@
+C:\Users\eugen\source\repos\Bookstore\Bookstore.Models\obj\Debug\net5.0\Bookstore.Models.csproj.AssemblyReference.cache
+C:\Users\eugen\source\repos\Bookstore\Bookstore.Models\obj\Debug\net5.0\Bookstore.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eugen\source\repos\Bookstore\Bookstore.Models\obj\Debug\net5.0\Bookstore.Models.AssemblyInfoInputs.cache
+C:\Users\eugen\source\repos\Bookstore\Bookstore.Models\obj\Debug\net5.0\Bookstore.Models.AssemblyInfo.cs
+C:\Users\eugen\source\repos\Bookstore\Bookstore.Models\obj\Debug\net5.0\Bookstore.Models.csproj.CoreCompileInputs.cache

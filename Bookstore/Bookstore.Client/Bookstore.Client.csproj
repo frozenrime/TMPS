@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Bookstore.Domain\Bookstore.Domain.csproj" />
+    <ProjectReference Include="..\Bookstore.Factory\Bookstore.Factory.csproj" />
+  </ItemGroup>
+
+</Project>
